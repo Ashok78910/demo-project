@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  background: #7cb9bb;
+}
+
+body {
+  margin: 0;
+}
+.container {
+  display: block;
+  position: relative;
+  padding: 20px;
+  cursor: pointer;
+  font-size: 18px;
+}
+.button{
+  padding: 20px;
+  margin: 20px 20px 20px 20px;
+}
+
